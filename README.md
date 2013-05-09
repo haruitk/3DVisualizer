@@ -31,6 +31,7 @@ Running Instruction:
 Step 1: Install Mozilla browser
 
 Step 2: Drag and drop 3DVisualizer.xpi file to any window in the browser. Restart browser
+https://github.com/haruitk/3DVisualizer/raw/master/bin/3DVisualizer.xpi
 
 Step 3: Login to Google Calendar and navigate to the weekly page you want to visualize
 
